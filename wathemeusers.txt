@@ -1,0 +1,5 @@
+{
+  "default_profile":"https://tlgur.com/d/Gaye2K7G",
+  "nerd_digital_profile":"https://tlgur.com/d/GMAJlakG",
+  "clebersonjrx_profile":"$"
+ }
